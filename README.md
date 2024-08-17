@@ -1,9 +1,11 @@
 
 **API Endpoint**
+
 Endpoint: /find-pairs
 Method: POST
 
 **Request Structure**
+
 {
   "numbers": [1, 2, 3, 4, 5],
   "target": 6
@@ -11,6 +13,7 @@ Method: POST
 
 
 **Response Structure**
+
 {
   "solutions": [
     [0, 4],
@@ -20,6 +23,7 @@ Method: POST
 
 
 **How to Run**
+
 Clone the repository.
 Install the necessary dependencies.
 Run the server.
